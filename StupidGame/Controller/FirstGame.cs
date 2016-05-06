@@ -10,12 +10,12 @@ namespace StupidGame.Controller
 	/// <summary>
 	/// This is the main type for your game.
 	/// </summary>
-	public class StupidGame : Game
+	public class FirstGame : Game
 	{
 		GraphicsDeviceManager graphics;
 		SpriteBatch spriteBatch;
 
-		public StupidGame ()
+		public FirstGame ()
 		{
 			graphics = new GraphicsDeviceManager (this);
 			Content.RootDirectory = "Content";
@@ -71,7 +71,7 @@ namespace StupidGame.Controller
 		/// <param name="gameTime">Provides a snapshot of timing values.</param>
 		protected override void Draw (GameTime gameTime)
 		{
-			graphics.GraphicsDevice.Clear (Color.CornflowerBlue);
+			graphics.GraphicsDevice.Clear (Color.DarkMagenta);
             
 			//TODO: Add your drawing code here
             

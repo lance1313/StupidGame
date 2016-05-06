@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="StupidGame/FirstGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StupidGame/Controller/FirstGame.cs">
+    <Files>
+      <File FileName="StupidGame/Controller/FirstGame.cs" Line="13" Column="24" />
+      <File FileName="StupidGame/Controller/Program.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
